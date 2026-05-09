@@ -1,0 +1,21 @@
+{
+    "status": "OK",
+    "code": 200,
+    "locale": "en_US",
+    "seed": null,
+    "total": 1,
+    "data": [
+        {
+            "id": 1,
+            "street": "6128 Harmony Roads",
+            "streetName": "Mohr Drive",
+            "buildingNumber": "7556",
+            "city": "North Shanna",
+            "zipcode": "00533-5503",
+            "country": "Cambodia",
+            "country_code": "KH",
+            "latitude": 62.987665,
+            "longitude": -4.561377
+        }
+    ]
+}
